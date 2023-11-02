@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Face Detection & Recognition Deep Learning Model**
 
-- 🌱 I’m currently learning **OpenCV,C++, ComputerVision, AI Development**
+- 🌱 I’m currently learning **OpenCV, C++, ComputerVision, AI Development**
 
 - 👯 I’m looking to collaborate on **Data Science & Computer Vision projects**
 

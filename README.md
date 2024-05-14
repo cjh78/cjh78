@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjh78&label=Profile%20views&color=0e75b6&style=flat" alt="cjh78" /> </p>
 
-- 🔭 I’m currently working on a **Face Detection & Recognition Deep Learning Model**
+- 🔭 I’m currently working on  **Mapping Seagrass Meadows with Satellite Imagery and Computer Vision**
 
-- 🌱 I’m currently learning **OpenCV, C++, ComputerVision, AI Development**
+- 🌱 I’m currently learning **OpenCV, C++, ComputerVision, AI Development for Video Games**
 
-- 👯 I’m looking to collaborate on **Data Science & Computer Vision projects**
+- 👯 I’m looking to collaborate on **Data Science & Game Development projects**
 
 
 <h3 align="left">Languages and Tools:</h3>

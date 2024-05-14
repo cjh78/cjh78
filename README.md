@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
-<h3 align="center">A passionate Data Scientist | Backend Python Developer and AI Engineer from London</h3>
+<h3 align="center">A passionate Freelance Data Scientist | Backend Python Developer and Data Engineer from London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjh78&label=Profile%20views&color=0e75b6&style=flat" alt="cjh78" /> </p>
 
-- 🔭 I’m currently working on a **Face Detection & Recognition Deep Learning Model**
+- 🔭 I’m currently working on several **Data Science Projects**
 
-- 🌱 I’m currently learning **OpenCV, C++, ComputerVision, AI Development**
+- 🌱 I am always looking to improve on my current ** Tech Stack and Skill Set **
 
-- 👯 I’m looking to collaborate on **Data Science & Computer Vision projects**
+- 👯 I’m looking to collaborate on **Data Science & Game Development Projects**
 
 
 <h3 align="left">Languages and Tools:</h3>
